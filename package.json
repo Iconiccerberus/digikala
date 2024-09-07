@@ -1,0 +1,11 @@
+{
+    "name": "term",
+    "version": "1.0.6",
+    "description": "this is a project ",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Bardia Amiri",
+    "license": "ISC"
+  }
